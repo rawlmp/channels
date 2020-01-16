@@ -108,7 +108,7 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14976
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14975
 #EXTINF:0, group-title="2 Peliculas", MOVISTAR DRAMA HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14974
-#EXTINF:0, group-title="2 Peliculas", MOVISTAR DISNEY
+#EXTINF:0, group-title="2 Peliculas", DISNEY CHANNEL
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14973
 #EXTINF:0, group-title="2 Peliculas", MOVISTAR ESTRENOS HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14972
@@ -116,7 +116,7 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14972
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14970
 #EXTINF:0, group-title="2 Peliculas", atreseries HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/38500
-#EXTINF:0, group-title="2 Peliculas", MOVISTAR SERIES XTRA HD
+#EXTINF:0, group-title="2 Peliculas", MOVISTAR SERIESMANIA HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14969
 #EXTINF:0, group-title="2 Peliculas", MOVISTAR CINE DOC&ROLL HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14968
@@ -177,8 +177,10 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14960
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14959
 #EXTINF:0, group-title="3 Documentales", NAT GEO WILD HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14958
-#EXTINF:0, group-title="3 Documentales", VIAJAR HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14954
+# #EXTINF:0, group-title="3 Documentales", VIAJAR HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14954
+#EXTINF:0, group-title="6 Varios", VIAJAR FHD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42125
 
 
 
@@ -218,8 +220,8 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/15031
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/15030
 #EXTINF:0, group-title="4 TV", NOVA
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/38487
-#EXTINF:0, group-title="4 TV", A3 SERIES HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/29608
+# #EXTINF:0, group-title="4 TV", A3 SERIES HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/29608
 #EXTINF:0, group-title="4 TV", DIVINITY
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/15003
 #EXTINF:0, group-title="4 TV", ENERGY
@@ -335,26 +337,24 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42110
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42113
 #EXTINF:0, group-title="6 Varios", TCM FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42114
-#EXTINF:0, group-title="6 Varios", COMEDY CENTRAL FHD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42115
+# #EXTINF:0, group-title="6 Varios", COMEDY CENTRAL FHD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42115
 #EXTINF:0, group-title="6 Varios", COSMO FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42116
 #EXTINF:0, group-title="6 Varios", FOX FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42117
 #EXTINF:0, group-title="6 Varios", FOX LIFE FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42118
-#EXTINF:0, group-title="6 Varios", BE MAD FHD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42120
+# #EXTINF:0, group-title="6 Varios", BE MAD FHD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42120
 #EXTINF:0, group-title="6 Varios", NAT GEO FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42122
 #EXTINF:0, group-title="6 Varios", NAT GEO WILD FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42123
 #EXTINF:0, group-title="6 Varios", CAZAYPESCA FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42124
-#EXTINF:0, group-title="6 Varios", VIAJAR FHD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42125
-#EXTINF:0, group-title="6 Varios", MEZZO LIVE FHD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42130s
+# #EXTINF:0, group-title="6 Varios", MEZZO LIVE FHD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42130s
 
 
 
@@ -366,8 +366,8 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/15001
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/15000
 #EXTINF:0, group-title="7 Infantiles", CANAL PANDA
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14999
-#EXTINF:0, group-title="7 Infantiles", COMEDY CENTRAL HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14998
+# #EXTINF:0, group-title="7 Infantiles", COMEDY CENTRAL HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14998
 #EXTINF:0, group-title="7 Infantiles", DISNEY HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14997
 #EXTINF:0, group-title="7 Infantiles", DISNEY JR
