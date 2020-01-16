@@ -1,7 +1,6 @@
 #EXTM3U
-
-#EXTINF:0,==== Deportes ==== 
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
+# #EXTINF:0,==== Deportes ==== 
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
 #EXTINF:0, group-title="1 Deportes", TDP
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/38504
 #EXTINF:0, group-title="1 Deportes", TDP HD
@@ -10,62 +9,62 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/38496
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42075
 #EXTINF:0, group-title="1 Deportes", BARCA TV
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14983
-#EXTINF:0, group-title="1 Deportes", BEIN SPORTS HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14991
+# #EXTINF:0, group-title="1 Deportes", BEIN SPORTS HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14991
 #EXTINF:0, group-title="1 Deportes", #VAMOS HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24973
-#EXTINF:0, group-title="1 Deportes", EUROSPORT 1
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14987
-#EXTINF:0, group-title="1 Deportes", EUROSPORT 1 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14988
-#EXTINF:0, group-title="1 Deportes", EUROSPORT 2
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14986
+# #EXTINF:0, group-title="1 Deportes", EUROSPORT 1
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14987
+# #EXTINF:0, group-title="1 Deportes", EUROSPORT 1 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14988
+# #EXTINF:0, group-title="1 Deportes", EUROSPORT 2
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14986
 #EXTINF:0, group-title="1 Deportes", GOL
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14989
-#EXTINF:0, group-title="1 Deportes", LA LIGA 123 TV HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24470
+# #EXTINF:0, group-title="1 Deportes", LA LIGA 123 TV HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24470
 #EXTINF:0, group-title="1 Deportes", LA LIGA TV HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14993
-#EXTINF:0, group-title="1 Deportes", LA LIGA TV HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14992
-#EXTINF:0, group-title="1 Deportes", MOVISTAR 1 DEPORTES 1 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14967
-#EXTINF:0, group-title="1 Deportes", MOVISTAR 1 DEPORTES 2 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14966
+# #EXTINF:0, group-title="1 Deportes", LA LIGA TV HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14992
+# #EXTINF:0, group-title="1 Deportes", MOVISTAR DEPORTES 1 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14967
+# #EXTINF:0, group-title="1 Deportes", MOVISTAR DEPORTES 2 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14966
 #EXTINF:0, group-title="1 Deportes", MOVISTAR FORMULA 1
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24479
-#EXTINF:0, group-title="1 Deportes", MOVISTAR FUTBOL HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14990
-#EXTINF:0, group-title="1 Deportes", MOVISTAR GOLF HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14981
-#EXTINF:0, group-title="1 Deportes", MOVISTAR LIGA DE CAMPEONES HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24469
-#EXTINF:0, group-title="1 Deportes", MOVISTAR Liga De Campeones 2
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/31677
-#EXTINF:0, group-title="1 Deportes", MOVISTAR PARTIDAZO HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14980
+# #EXTINF:0, group-title="1 Deportes", MOVISTAR FUTBOL HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14990
+# #EXTINF:0, group-title="1 Deportes", MOVISTAR GOLF HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14981
+# #EXTINF:0, group-title="1 Deportes", MOVISTAR LIGA DE CAMPEONES HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24469
+# #EXTINF:0, group-title="1 Deportes", MOVISTAR Liga De Campeones 2
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/31677
+# #EXTINF:0, group-title="1 Deportes", MOVISTAR PARTIDAZO HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14980
 #EXTINF:0, group-title="1 Deportes", DAZN 1 BAR FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/39030
 #EXTINF:0, group-title="1 Deportes", DAZN 2 BAR FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/39027
-#EXTINF:0, group-title="1 Deportes", Movistar Moto GP HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14979
+# #EXTINF:0, group-title="1 Deportes", Movistar Moto GP HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14979
 #EXTINF:0, group-title="1 Deportes", Real MADRID TV HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14982
 #EXTINF:0, group-title="1 Deportes", TELE DEPORTE
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14965
 #EXTINF:0, group-title="1 Deportes", REAL MADRID TV FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42077
-#EXTINF:0, group-title="1 Deportes", MOVISTAR PARTIDAZO FHD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42078
-#EXTINF:0, group-title="1 Deportes", MOVISTAR 1 DEPORTES FHD
+# #EXTINF:0, group-title="1 Deportes", MOVISTAR PARTIDAZO FHD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42078
+#EXTINF:0, group-title="1 Deportes", MOVISTAR DEPORTES FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42079
-#EXTINF:0, group-title="1 Deportes", MOVISTAR 1 DEPORTES1 FHD
+#EXTINF:0, group-title="1 Deportes", MOVISTAR DEPORTES 1 FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42080
 #EXTINF:0, group-title="1 Deportes", LALIGA TV BAR FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42082
-#EXTINF:0, group-title="1 Deportes", LA LIGA 123 TV FHD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42083
+# #EXTINF:0, group-title="1 Deportes", LA LIGA 123 TV FHD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42083
 #EXTINF:0, group-title="1 Deportes", MOVISTAR LALIGA FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42084
 #EXTINF:0, group-title="1 Deportes", MOVISTAR LALIGA 1 FHD
@@ -88,11 +87,11 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42092
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42093
 #EXTINF:0, group-title="1 Deportes", TOROS HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14978
-#EXTINF:0, group-title="1 Deportes", TOROS FHD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42119
+# #EXTINF:0, group-title="1 Deportes", TOROS FHD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42119
 
-#EXTINF:0,==== Peliculas ====
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
+# #EXTINF:0,==== Peliculas ====
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
 #EXTINF:0, group-title="2 Peliculas", HOLLYWOOD HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/15028
 #EXTINF:0, group-title="2 Peliculas", AXN HD
@@ -166,8 +165,8 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14956
 
 
 
-#EXTINF:0,==== Documentales ====
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
+# #EXTINF:0,==== Documentales ====
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
 #EXTINF:0, group-title="3 Documentales", DISCOVERY
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14962
 #EXTINF:0, group-title="3 Documentales", HISTORIA
@@ -183,8 +182,8 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14954
 
 
 
-#EXTINF:0,==== Canales TV ====
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
+# #EXTINF:0,==== Canales TV ====
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
 #EXTINF:0, group-title="4 TV", LA 1 HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/15039
 #EXTINF:0, group-title="4 TV", LA 1
@@ -247,8 +246,8 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42111
 
 
 
-#EXTINF:0,==== Regionales ====
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
+# #EXTINF:0,==== Regionales ====
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
 #EXTINF:0, group-title="5 Regionales", ARAGON TV
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/15021
 #EXTINF:0, group-title="5 Regionales", Andalucia TV
@@ -264,8 +263,8 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42074
 
 
 
-#EXTINF:0,==== Varios ====
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
+# #EXTINF:0,==== Varios ====
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
 #EXTINF:0, group-title="6 Varios", FOX HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/15026
 #EXTINF:0, group-title="6 Varios", FOX LIFE HD
@@ -359,8 +358,8 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42130s
 
 
 
-#EXTINF:0,==== Infantiles ====
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
+# #EXTINF:0,==== Infantiles ====
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
 #EXTINF:0, group-title="7 Infantiles", BABY TV
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/15001
 #EXTINF:0, group-title="7 Infantiles", BOING
