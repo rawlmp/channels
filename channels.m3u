@@ -1,8 +1,24 @@
 #EXTM3U
-# #EXTINF:0,La Mosca 2 
-# https://www.descargas2020.org/descargar-torrent/132519_-1580047903-La-Mosca-2--BluRay-MicroHD
-# #EXTINF:0,==== Deportes ==== 
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
+#EXTINF:0, group-title="0 Tano", DMAX
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/38492
+#EXTINF:0, group-title="o Tano", DISCOVERY
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14962
+#EXTINF:0, group-title="0 Tano", DAZN 1
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/39030
+#EXTINF:0, group-title="0 Tano", DAZN 2
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/39027
+#EXTINF:0, group-title="1 Deportes", LALIGA TV BAR FHD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42082
+#EXTINF:0, group-title="1 Deportes", MOVISTAR LALIGA FHD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42084
+#EXTINF:0, group-title="1 Deportes", MOVISTAR FORMULA 1 FHD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42093
+#EXTINF:0, group-title="1 Deportes", EUROSPORT 1
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14987
+#EXTINF:0, group-title="1 Deportes", EUROSPORT 1 HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14988
+
+
 #EXTINF:0, group-title="1 Deportes", TELEDEPORTE
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/38504
 #EXTINF:0, group-title="1 Deportes", TELEDEPORTE HD
@@ -11,62 +27,60 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/38496
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42075
 #EXTINF:0, group-title="1 Deportes", BARCA TV
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14983
-# #EXTINF:0, group-title="1 Deportes", BEIN SPORTS HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14991
 #EXTINF:0, group-title="1 Deportes", #VAMOS HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24973
-# #EXTINF:0, group-title="1 Deportes", EUROSPORT 1
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14987
-# #EXTINF:0, group-title="1 Deportes", EUROSPORT 1 HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14988
-# #EXTINF:0, group-title="1 Deportes", EUROSPORT 2
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14986
+#EXTINF:0, group-title="1 Deportes", EUROSPORT 1
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14987
+#EXTINF:0, group-title="1 Deportes", EUROSPORT 1 HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14988
+#EXTINF:0, group-title="1 Deportes", EUROSPORT 2
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14986
 #EXTINF:0, group-title="1 Deportes", GOL
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14989
-# #EXTINF:0, group-title="1 Deportes", LA LIGA 123 TV HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24470
+#EXTINF:0, group-title="1 Deportes", LA LIGA 123 TV HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24470
 #EXTINF:0, group-title="1 Deportes", LA LIGA TV HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14993
-# #EXTINF:0, group-title="1 Deportes", LA LIGA TV HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14992
-# #EXTINF:0, group-title="1 Deportes", MOVISTAR DEPORTES 1 HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14967
-# #EXTINF:0, group-title="1 Deportes", MOVISTAR DEPORTES 2 HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14966
+#EXTINF:0, group-title="1 Deportes", LA LIGA TV HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14992
+#EXTINF:0, group-title="1 Deportes", MOVISTAR DEPORTES 1 HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14967
+#EXTINF:0, group-title="1 Deportes", MOVISTAR DEPORTES 2 HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14966
 #EXTINF:0, group-title="1 Deportes", MOVISTAR FORMULA 1
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24479
-# #EXTINF:0, group-title="1 Deportes", MOVISTAR FUTBOL HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14990
-# #EXTINF:0, group-title="1 Deportes", MOVISTAR GOLF HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14981
-# #EXTINF:0, group-title="1 Deportes", MOVISTAR LIGA DE CAMPEONES HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24469
-# #EXTINF:0, group-title="1 Deportes", MOVISTAR Liga De Campeones 2
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/31677
-# #EXTINF:0, group-title="1 Deportes", MOVISTAR PARTIDAZO HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14980
+#EXTINF:0, group-title="1 Deportes", MOVISTAR FUTBOL HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14990
+#EXTINF:0, group-title="1 Deportes", MOVISTAR GOLF HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14981
+#EXTINF:0, group-title="1 Deportes", MOVISTAR LIGA DE CAMPEONES HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24469
+#EXTINF:0, group-title="1 Deportes", MOVISTAR Liga De Campeones 2
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/31677
+#EXTINF:0, group-title="1 Deportes", MOVISTAR PARTIDAZO HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14980
 #EXTINF:0, group-title="1 Deportes", DAZN 1
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/39030
 #EXTINF:0, group-title="1 Deportes", DAZN 2
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/39027
-# #EXTINF:0, group-title="1 Deportes", Movistar Moto GP HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14979
+#EXTINF:0, group-title="1 Deportes", Movistar Moto GP HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14979
 #EXTINF:0, group-title="1 Deportes", Real MADRID TV HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14982
 #EXTINF:0, group-title="1 Deportes", M DEPORTES
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14965
 #EXTINF:0, group-title="1 Deportes", REAL MADRID TV FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42077
-# #EXTINF:0, group-title="1 Deportes", MOVISTAR PARTIDAZO FHD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42078
+#EXTINF:0, group-title="1 Deportes", MOVISTAR PARTIDAZO FHD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42078
 #EXTINF:0, group-title="1 Deportes", M Deportes FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42079
 #EXTINF:0, group-title="1 Deportes", M. DEPORTES1 FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42080
 #EXTINF:0, group-title="1 Deportes", LALIGA TV BAR FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42082
-# #EXTINF:0, group-title="1 Deportes", LA LIGA 123 TV FHD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42083
+#EXTINF:0, group-title="1 Deportes", LA LIGA 123 TV FHD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42083
 #EXTINF:0, group-title="1 Deportes", MOVISTAR LALIGA FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42084
 #EXTINF:0, group-title="1 Deportes", MOVISTAR LALIGA 1 FHD
@@ -89,8 +103,8 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42092
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42093
 #EXTINF:0, group-title="1 Deportes", TOROS HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14978
-# #EXTINF:0, group-title="1 Deportes", TOROS FHD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42119
+#EXTINF:0, group-title="1 Deportes", TOROS FHD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42119
 
 # #EXTINF:0,==== Peliculas ====
 # http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/7710
@@ -124,24 +138,24 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14969
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14968
 #EXTINF:0, group-title="2 Peliculas", MOVISTAR Cine Doc&Roll
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/36743
-#EXTINF:0, group-title="2 Peliculas", Alquiler 1 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24479
-#EXTINF:0, group-title="2 Peliculas", Alquiler 2 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24478
-#EXTINF:0, group-title="2 Peliculas", Alquiler 3 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24477
-#EXTINF:0, group-title="2 Peliculas", Alquiler 4 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24476
-#EXTINF:0, group-title="2 Peliculas", Alquiler 5 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24475
-#EXTINF:0, group-title="2 Peliculas", Alquiler 6 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24474
-#EXTINF:0, group-title="2 Peliculas", Alquiler 7 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24473
-#EXTINF:0, group-title="2 Peliculas", Alquiler 8 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24472
-#EXTINF:0, group-title="2 Peliculas", Alquiler 9 HD
-http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24471
+# #EXTINF:0, group-title="2 Peliculas", Alquiler 1 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24479
+# #EXTINF:0, group-title="2 Peliculas", Alquiler 2 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24478
+# #EXTINF:0, group-title="2 Peliculas", Alquiler 3 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24477
+# #EXTINF:0, group-title="2 Peliculas", Alquiler 4 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24476
+# #EXTINF:0, group-title="2 Peliculas", Alquiler 5 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24475
+# #EXTINF:0, group-title="2 Peliculas", Alquiler 6 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24474
+# #EXTINF:0, group-title="2 Peliculas", Alquiler 7 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24473
+# #EXTINF:0, group-title="2 Peliculas", Alquiler 8 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24472
+# #EXTINF:0, group-title="2 Peliculas", Alquiler 9 HD
+# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/24471
 #EXTINF:0, group-title="2 Peliculas", MOVISTAR ACCION FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42095
 #EXTINF:0, group-title="2 Peliculas", MOVISTAR SERIES FHD
@@ -179,8 +193,8 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14960
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14959
 #EXTINF:0, group-title="3 Documentales", NAT GEO WILD HD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14958
-# #EXTINF:0, group-title="3 Documentales", VIAJAR HD
-# http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14954
+#EXTINF:0, group-title="3 Documentales", VIAJAR HD
+http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/14954
 #EXTINF:0, group-title="6 Varios", VIAJAR FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42125
 
@@ -388,3 +402,457 @@ http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42127
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42128
 #EXTINF:0, group-title="7 Infantiles", CLAN TVE FHD
 http://www.sansat.net:25461/025923217680/VkA7UHHjR73xbdu/42073
+
+
+
+# VIDEOCLUB
+#EXTINF:-1 tvg-ID="" tvg-name="Una Cenicienta Moderna: Un Deseo de Navidad" tvg-logo="https://image.tmdb.org/t/p/w500/1fwwF00YNq3vFfejf10diVp28f4.jpg" group-title="8 Videoclub",Una Cenicienta Moderna: Un Deseo de Navidad
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52882.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="alita" tvg-logo="https://image.tmdb.org/t/p/w500/rV3itKLEALozktTGOCd1EE9vjG6.jpg" group-title="8 Videoclub",alita
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52871.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ad astra" tvg-logo="https://image.tmdb.org/t/p/w500/iR8TvOxTQNiTXFHs1S43RE2j0kg.jpg" group-title="8 Videoclub",Ad astra
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52873.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="angry birds2" tvg-logo="https://image.tmdb.org/t/p/w500/jUDA7p8rKlby7aBD1D0PxovKufZ.jpg" group-title="8 Videoclub",angry birds2
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52874.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ayla, la hija de la guerra" tvg-logo="https://image.tmdb.org/t/p/w500/cSIBNrxtJJnzMvOlGvmoFd0T1Pz.jpg" group-title="8 Videoclub",Ayla, la hija de la guerra
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52875.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Atlantique" tvg-logo="https://image.tmdb.org/t/p/w500/wrI5ykxaNh4Vis5Ehwos6Fu768j.jpg" group-title="8 Videoclub",Atlantique
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52876.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Violent Separation" tvg-logo="https://image.tmdb.org/t/p/w500/yNlLMfrfPExwqLZSOFbqmkawIpg.jpg" group-title="8 Videoclub",A Violent Separation
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52877.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="After the Wedding" tvg-logo="https://image.tmdb.org/t/p/w500/b0oOxSAtphpRJRmS1J1nf9PAGiE.jpg" group-title="8 Videoclub",After the Wedding
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52878.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Astérix - El secreto de la poción mágica" tvg-logo="https://image.tmdb.org/t/p/w500/aXop79u2iLVqz1GuSAxgtRUcJHZ.jpg" group-title="8 Videoclub",Astérix - El secreto de la poción mágica
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52879.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A young man with high potential" tvg-logo="https://image.tmdb.org/t/p/w500/qhnlt0FsS8BIOHT7sJvcLP5LQg0.jpg" group-title="8 Videoclub",A young man with high potential
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52880.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Antes de la quema" tvg-logo="https://image.tmdb.org/t/p/w500/oAIUoNCioh274HPwOqoBAC73RFR.jpg" group-title="8 Videoclub",Antes de la quema
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52881.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Nasty Piece of Work" tvg-logo="https://image.tmdb.org/t/p/w500/xE5G0nY3yKnTxp9tIEev06tsm3L.jpg" group-title="8 Videoclub",A Nasty Piece of Work
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52883.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Abigail y la ciudad perdida" tvg-logo="https://image.tmdb.org/t/p/w500/ldYpfYGvEMJ09gumqhN7cCdvBrW.jpg" group-title="8 Videoclub",Abigail y la ciudad perdida
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52884.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Alien Warfare" tvg-logo="https://image.tmdb.org/t/p/w500/nuUpcP9zOjiVZUveQEBFCOlIG2I.jpg" group-title="8 Videoclub",Alien Warfare
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52885.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Anna" tvg-logo="https://image.tmdb.org/t/p/w500/eLBq1ANzAHgVfQSK6urU0HaTGPS.jpg" group-title="8 Videoclub",Anna
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52886.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vengadores: Endgame" tvg-logo="https://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg" group-title="8 Videoclub",Vengadores: Endgame
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52887.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Assassination Classroom" tvg-logo="https://image.tmdb.org/t/p/w500/hFctUKzlmRwIhghh4j8zT4Iia5b.jpg" group-title="8 Videoclub",Assassination Classroom
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52888.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dos Padres en Apuros" tvg-logo="https://image.tmdb.org/t/p/w500/oBdnhbKAot9UwRAnPdH53pK9nkW.jpg" group-title="8 Videoclub",Dos Padres en Apuros
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52889.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Fast & Furious: Hobbs & Shaw" tvg-logo="https://image.tmdb.org/t/p/w500/nU8PLLkOpYzfOyAE3yjrX8DviaM.jpg" group-title="8 Videoclub",Fast & Furious: Hobbs & Shaw
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52890.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El irlandes" tvg-logo="https://image.tmdb.org/t/p/w500/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg" group-title="8 Videoclub",El irlandes
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52891.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="De la India a Paris en un armario de Ikea" tvg-logo="https://image.tmdb.org/t/p/w500/sDO6Ff8U4G6hoTpgl1qnOiXRJXh.jpg" group-title="8 Videoclub",De la India a Paris en un armario de Ikea
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52892.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Historias de miedo para contar en la oscuridad" tvg-logo="https://image.tmdb.org/t/p/w500/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg" group-title="8 Videoclub",Historias de miedo para contar en la oscuridad
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52893.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="EL REY LEON" tvg-logo="https://image.tmdb.org/t/p/w500/yysmQpv26DdP79XtR3zsL3nVFbN.jpg" group-title="8 Videoclub",EL REY LEON
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52894.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="American Wrestler Luchando Por Un Sueno" tvg-logo="https://image.tmdb.org/t/p/w500/kslgEWZQQFJKUwvVcdnU7GYs663.jpg" group-title="8 Videoclub",American Wrestler Luchando Por Un Sueno
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52895.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La fiesta acaba de empezar" tvg-logo="https://image.tmdb.org/t/p/w500/xvOwP87VWDC70CxH5niLxEbWK4s.jpg" group-title="8 Videoclub",La fiesta acaba de empezar
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52896.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Stockholm" tvg-logo="https://image.tmdb.org/t/p/w500/ko3AS33BLNEBcp1CO4FvdRltTxr.jpg" group-title="8 Videoclub",Stockholm
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52897.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dragged Across Concrete" tvg-logo="https://image.tmdb.org/t/p/w500/fVG4a27ImyPS4vvNMjCtan3QhDl.jpg" group-title="8 Videoclub",Dragged Across Concrete
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52898.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Alcanzando tu sueño" tvg-logo="https://image.tmdb.org/t/p/w500/qPT80mUHkZCjIPBZKMP0DGHmI0p.jpg" group-title="8 Videoclub",Alcanzando tu sueño
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52899.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La luz de mi vida" tvg-logo="https://image.tmdb.org/t/p/w500/lajVTMqoNxKINqebqQWPB4IHfUc.jpg" group-title="8 Videoclub",La luz de mi vida
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52900.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El juego del asesino" tvg-logo="https://image.tmdb.org/t/p/w500/uupsf4bse4eef7cPxjC8rZBtC3k.jpg" group-title="8 Videoclub",El juego del asesino
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52901.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Un extraño presentimiento" tvg-logo="https://image.tmdb.org/t/p/w500/s0aIYXYgvIoCOmsQJvpyOvGHHuS.jpg" group-title="8 Videoclub",Un extraño presentimiento
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52902.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Inuyashiki" tvg-logo="https://image.tmdb.org/t/p/w500/2pOVM1AhWwYX23eDgyIwdPiAEvk.jpg" group-title="8 Videoclub",Inuyashiki
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52903.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Convent" tvg-logo="https://image.tmdb.org/t/p/w500/or9QoOcHfsaypC7UiCEIFtls48N.jpg" group-title="8 Videoclub",The Convent
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52904.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Timadoras compulsivas" tvg-logo="https://image.tmdb.org/t/p/w500/9TI2hkMQ2pmzoVKNNko2CSuvJfH.jpg" group-title="8 Videoclub",Timadoras compulsivas
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52905.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Serenity" tvg-logo="https://image.tmdb.org/t/p/w500/etqWw3IYLAkiAIhTWTwkoPo0ICO.jpg" group-title="8 Videoclub",Serenity
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52906.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick : Parabellum" tvg-logo="https://image.tmdb.org/t/p/w500/8gd71hpzHIF3gCkmJBwV5egtu3k.jpg" group-title="8 Videoclub",John Wick : Parabellum
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52910.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Casi imposible" tvg-logo="https://image.tmdb.org/t/p/w500/d5SjdpTAyn0zLzJYSAJ1AzosHh8.jpg" group-title="8 Videoclub",Casi imposible
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52911.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Código 8" tvg-logo="https://image.tmdb.org/t/p/w500/jfJloNJnzVwyYzXcI5j0qyQ0QAg.jpg" group-title="8 Videoclub",Código 8
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52912.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ana y el apocalipsis" tvg-logo="https://image.tmdb.org/t/p/w500/rScamlniC4kQhIiI2JTwgJYAvLr.jpg" group-title="8 Videoclub",Ana y el apocalipsis
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52913.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Érase una vez en… Hollywood" tvg-logo="https://image.tmdb.org/t/p/w500/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg" group-title="8 Videoclub",Érase una vez en… Hollywood
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52914.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="La viuda" tvg-logo="https://image.tmdb.org/t/p/w500/vsNUxeOiRDyS3FDJMroRcJOcjXm.jpg" group-title="8 Videoclub",La viuda
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52915.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="It: Capítulo 2" tvg-logo="https://image.tmdb.org/t/p/w500/9oERKIVyTWpHNum3STVsAGD4ojz.jpg" group-title="8 Videoclub",It: Capítulo 2
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52916.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La corresponsal" tvg-logo="https://image.tmdb.org/t/p/w500/6hw1Op9W3wWhFV1OqsLEu0h6HzV.jpg" group-title="8 Videoclub",La corresponsal
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52917.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La última lección" tvg-logo="https://image.tmdb.org/t/p/w500/j9YD107t6pdHAyETihzGVYlarbs.jpg" group-title="8 Videoclub",La última lección
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52918.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El bailarín" tvg-logo="https://image.tmdb.org/t/p/w500/zjHwBb1DFkz0OhAK6mbLDG8NFRa.jpg" group-title="8 Videoclub",El bailarín
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52919.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El emperador de París" tvg-logo="https://image.tmdb.org/t/p/w500/MwFOha5oeEUFmKXp4C6c6F275X.jpg" group-title="8 Videoclub",El emperador de París
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52920.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A 47 metros 2: El terror emerge" tvg-logo="https://image.tmdb.org/t/p/w500/tTdsKKEiAcvo4sm3vgIrbzg8u83.jpg" group-title="8 Videoclub",A 47 metros 2: El terror emerge
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52921.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El Caso Willingham" tvg-logo="https://image.tmdb.org/t/p/w500/ybMUbOmOhJWtc5Sx1bcDGqluFYw.jpg" group-title="8 Videoclub",El Caso Willingham
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52922.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Una íntima convicción" tvg-logo="https://image.tmdb.org/t/p/w500/uKB5GwBEHeVCcRy05000xTkTB2S.jpg" group-title="8 Videoclub",Una íntima convicción
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52923.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Desde el infierno" tvg-logo="https://image.tmdb.org/t/p/w500/fv29GwNS1NOgsr4NAdghOlQXkup.jpg" group-title="8 Videoclub",Desde el infierno
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52924.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="En buenas manos" tvg-logo="https://image.tmdb.org/t/p/w500/syQUPFh2CbkQOTElywukvPuUInV.jpg" group-title="8 Videoclub",En buenas manos
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52925.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Clara\'s Ghost" tvg-logo="https://image.tmdb.org/t/p/w500/vxzYb31A8Q5pGdJCCYJiqx9GmDo.jpg" group-title="8 Videoclub",Clara\'s Ghost
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52926.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Historia de un matrimonio" tvg-logo="https://image.tmdb.org/t/p/w500/opePIU8Qt1jayldYY3GzuxqSy2J.jpg" group-title="8 Videoclub",Historia de un matrimonio
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52927.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Como pez fuera del agua" tvg-logo="https://image.tmdb.org/t/p/w500/zAI0ehQlmsEdLaAIoT7mpBOyOZK.jpg" group-title="8 Videoclub",Como pez fuera del agua
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52928.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="303" tvg-logo="https://image.tmdb.org/t/p/w500/iUxVmctU9gZG7YEhUChpBZTYtrV.jpg" group-title="8 Videoclub",303
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52929.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Los Bando" tvg-logo="https://image.tmdb.org/t/p/w500/npMAv9Qfiuit9ZSAaQseLSrDrxA.jpg" group-title="8 Videoclub",Los Bando
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52930.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El permiso" tvg-logo="https://image.tmdb.org/t/p/w500/qn2CdenVr2ribrmfUBBAPfc385X.jpg" group-title="8 Videoclub",El permiso
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52931.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The King" tvg-logo="https://image.tmdb.org/t/p/w500/83yxRePNAv8249xDgbxxagKTzLl.jpg" group-title="8 Videoclub",The King
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52932.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="6 en la sombra" tvg-logo="https://image.tmdb.org/t/p/w500/49z88ri8gToqfVodW3GYQJCDmPx.jpg" group-title="8 Videoclub",6 en la sombra
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52933.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Pequena Traviesa" tvg-logo="https://image.tmdb.org/t/p/w500/j4P27Cw27Xf7Fcg5xGqaIzsi5im.jpg" group-title="8 Videoclub",La Pequena Traviesa
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52934.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Heridas" tvg-logo="https://image.tmdb.org/t/p/w500/p0GL9nAza9fuUVSj7m3qTMOD0DG.jpg" group-title="8 Videoclub",Heridas
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52935.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Garabandal, solo Dios lo sabe" tvg-logo="https://image.tmdb.org/t/p/w500/qOwXKJqn8mf2wIw42CwH43hRAcI.jpg" group-title="8 Videoclub",Garabandal, solo Dios lo sabe
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52936.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Harriet" tvg-logo="https://image.tmdb.org/t/p/w500/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg" group-title="8 Videoclub",Harriet
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52937.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Los Descendientes 3" tvg-logo="https://image.tmdb.org/t/p/w500/iYlUNAvMczvXaDzbEaGIkvKivbg.jpg" group-title="8 Videoclub",Los Descendientes 3
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52938.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Una foto antes de morir" tvg-logo="https://image.tmdb.org/t/p/w500/hguX3RBmXa5mXh8uQ0PdwboWEo0.jpg" group-title="8 Videoclub",Una foto antes de morir
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52939.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El sol también es una estrella" tvg-logo="https://image.tmdb.org/t/p/w500/mm24APoQxTs2HfvJfFJH4X46Fej.jpg" group-title="8 Videoclub",El sol también es una estrella
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52940.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Gracias a Dios" tvg-logo="https://image.tmdb.org/t/p/w500/aibHVADwTeDxn2wwHNcfdZDzGGT.jpg" group-title="8 Videoclub",Gracias a Dios
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52941.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Corgi: Las mascotas de la reina" tvg-logo="https://image.tmdb.org/t/p/w500/n0w3tWIl8QLRTb5ovfUbthd4Fci.jpg" group-title="8 Videoclub",Corgi: Las mascotas de la reina
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52942.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Infierno bajo el agua" tvg-logo="https://image.tmdb.org/t/p/w500/9IV0RCgBBcaBRsUGZ6xvC9T5Kh.jpg" group-title="8 Videoclub",Infierno bajo el agua
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52943.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Corrupción" tvg-logo="https://image.tmdb.org/t/p/w500/4fUJEMGcjs8SWCVevIe0xqyu8aX.jpg" group-title="8 Videoclub",Corrupción
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52944.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El caballero de las sombras" tvg-logo="https://image.tmdb.org/t/p/w500/n8R5BHkbA8HBO4ibwKnEUlDBqRT.jpg" group-title="8 Videoclub",El caballero de las sombras
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52945.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Stuber Express" tvg-logo="https://image.tmdb.org/t/p/w500/3SCb7NfYOrKNMnfCn0LjOPQEVgb.jpg" group-title="8 Videoclub",Stuber Express
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52946.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La trampa de la arana" tvg-logo="https://image.tmdb.org/t/p/w500/mq27MHwzCY6IaidzKBTBojSUNQx.jpg" group-title="8 Videoclub",La trampa de la arana
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52947.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Una segunda vida" tvg-logo="https://image.tmdb.org/t/p/w500/nBAiFdtJglEUBkFGpn0ThLjQCUY.jpg" group-title="8 Videoclub",Una segunda vida
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52948.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mommys little angel" tvg-logo="https://image.tmdb.org/t/p/w500/88debKjBpjf99QQNg0ENHsEI7M6.jpg" group-title="8 Videoclub",Mommys little angel
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52949.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Yesterday" tvg-logo="https://image.tmdb.org/t/p/w500/b8VhTJxAitF5ynjosPuqEAQvdlg.jpg" group-title="8 Videoclub",Yesterday
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52950.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Hasta los dientes" tvg-logo="https://image.tmdb.org/t/p/w500/n3akk93FMnTiB1xFp8UnO10OjBq.jpg" group-title="8 Videoclub",Hasta los dientes
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52951.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El ano de la plaga" tvg-logo="https://image.tmdb.org/t/p/w500/y4t7k11BnL666DOPqi32nwggq2W.jpg" group-title="8 Videoclub",El ano de la plaga
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52952.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Laundromat: Dinero sucio" tvg-logo="https://image.tmdb.org/t/p/w500/lZ0a5MHHSqk2FgAnt5d5BVEfXeJ.jpg" group-title="8 Videoclub",The Laundromat: Dinero sucio
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52953.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Doom aniquilacion" tvg-logo="https://image.tmdb.org/t/p/w500/g78vTiPcIGgpLHG7gktEg0rqF0D.jpg" group-title="8 Videoclub",Doom aniquilacion
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52954.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Chicos buenos" tvg-logo="https://image.tmdb.org/t/p/w500/8zqptFnq7GhpVEXzfOnNxWbN0U2.jpg" group-title="8 Videoclub",Chicos buenos
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52955.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El arte de vivir bajo la lluvia" tvg-logo="https://image.tmdb.org/t/p/w500/jqeLKlKpaS4v89dT9tLhkZRv14d.jpg" group-title="8 Videoclub",El arte de vivir bajo la lluvia
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52956.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vencedores" tvg-logo="https://image.tmdb.org/t/p/w500/tQTbyyfxms5sWfk7VuXp3lGCI2M.jpg" group-title="8 Videoclub",Vencedores
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52957.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Los Japon" tvg-logo="https://image.tmdb.org/t/p/w500/r2Th4u8f74JRPJd0LpC8i0L0ZmI.jpg" group-title="8 Videoclub",Los Japon
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52958.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Brittany Runs a Marathon" tvg-logo="https://image.tmdb.org/t/p/w500/9HwdRkw0w7wD8IykDgDAA1C05oe.jpg" group-title="8 Videoclub",Brittany Runs a Marathon
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52959.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El lado siniestro de la Luna" tvg-logo="https://image.tmdb.org/t/p/w500/nn1LVyYKASSsxEp4JCyBRYe3a27.jpg" group-title="8 Videoclub",El lado siniestro de la Luna
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52960.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Midsommar" tvg-logo="https://image.tmdb.org/t/p/w500/km0ta4N96yjoZPVy5A3gbcE3Ne8.jpg" group-title="8 Videoclub",Midsommar
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52961.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Boarding School" tvg-logo="https://image.tmdb.org/t/p/w500/lun3G1IU6AYgXlXP649amULMPpv.jpg" group-title="8 Videoclub",Boarding School
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52962.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El hijo" tvg-logo="https://image.tmdb.org/t/p/w500/bQmRemkGS3SMAexgZND6ey02lYW.jpg" group-title="8 Videoclub",El hijo
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52963.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Safari Por Navidad" tvg-logo="https://image.tmdb.org/t/p/w500/kDXMzBpiUJld5zLnSqDmGln3XuM.jpg" group-title="8 Videoclub",Safari Por Navidad
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52964.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="How to Train Your Husband" tvg-logo="https://image.tmdb.org/t/p/w500/zld9o6ENdIUX4uVzkO98tA05dol.jpg" group-title="8 Videoclub",How to Train Your Husband
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52965.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Let\'s Dance" tvg-logo="https://image.tmdb.org/t/p/w500/x38vQCzCpWZWlWJhSVPFWhmTadu.jpg" group-title="8 Videoclub",Let\'s Dance
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52966.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Golem La Leyenda" tvg-logo="https://image.tmdb.org/t/p/w500/rwdbyKJ2PKTLamQzr57OgMuFUlD.jpg" group-title="8 Videoclub",Golem La Leyenda
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52967.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Muneco diabolico " tvg-logo="https://image.tmdb.org/t/p/w500/v3u6WnH55OvtZKyFHVY984vGprG.jpg" group-title="8 Videoclub",Muneco diabolico 
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52968.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Necesitamos tu voto" tvg-logo="https://image.tmdb.org/t/p/w500/d1L4ejMvyKkCMjqibG8t8R27V6p.jpg" group-title="8 Videoclub",Necesitamos tu voto
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52969.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Asesinos anonimos" tvg-logo="https://image.tmdb.org/t/p/w500/llESeuE3PnMy6WpF2hZpSaRIc5a.jpg" group-title="8 Videoclub",Asesinos anonimos
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52970.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Downton Abbey" tvg-logo="https://image.tmdb.org/t/p/w500/cSZ3S6mCN4gsTQoJztBdHEbDSuD.jpg" group-title="8 Videoclub",Downton Abbey
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52971.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Los muertos no mueren" tvg-logo="https://image.tmdb.org/t/p/w500/rYVKIiyE6vK2riNTPtk1XKWejvJ.jpg" group-title="8 Videoclub",Los muertos no mueren
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52972.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Wonder Woman: Linaje" tvg-logo="https://image.tmdb.org/t/p/w500/w1SBqj0fn1j72ST5i1jauWo3swT.jpg" group-title="8 Videoclub",Wonder Woman: Linaje
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52973.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Steven Universe: The Movie" tvg-logo="https://image.tmdb.org/t/p/w500/8mRgpubxHqnqvENK4Bei30xMDvy.jpg" group-title="8 Videoclub",Steven Universe: The Movie
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52974.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Destined to Ride" tvg-logo="https://image.tmdb.org/t/p/w500/wGOkZLH4vApt24ZFyt4xVZvefWd.jpg" group-title="8 Videoclub",Destined to Ride
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52975.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El vendedor de tabaco" tvg-logo="https://image.tmdb.org/t/p/w500/6zoLANwMCmH9sxp1vVDUcCpac4b.jpg" group-title="8 Videoclub",El vendedor de tabaco
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52976.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Extra ordinario" tvg-logo="https://image.tmdb.org/t/p/w500/flAAT1KNRCNKNcYJ5JK30J2wMbQ.jpg" group-title="8 Videoclub",Extra ordinario
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52977.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Freaks" tvg-logo="https://image.tmdb.org/t/p/w500/zUYuOVHrxrfaumZIMYt2MMYKAZB.jpg" group-title="8 Videoclub",Freaks
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52978.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Killer Kate!" tvg-logo="https://image.tmdb.org/t/p/w500/xEtY9NtzImWHZavWTQMWub6RYgj.jpg" group-title="8 Videoclub",Killer Kate!
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52979.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La tercera esposa" tvg-logo="https://image.tmdb.org/t/p/w500/8aFNT6uPzUkGnN92gSlhVg5Lcxr.jpg" group-title="8 Videoclub",La tercera esposa
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52980.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Conrad & Michelle: If Words Could Kill" tvg-logo="https://image.tmdb.org/t/p/w500/xkyuMNNnHyDdo4d6seys7uSMckC.jpg" group-title="8 Videoclub",Conrad & Michelle: If Words Could Kill
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52981.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Family Vanished" tvg-logo="https://image.tmdb.org/t/p/w500/vged18BBC2LkG4vPF1EGef0s7KD.jpg" group-title="8 Videoclub",Family Vanished
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52982.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Conoces a Tomas" tvg-logo="https://image.tmdb.org/t/p/w500/2OfdMLI6eQvwGuuc3lBJo5a2nTV.jpg" group-title="8 Videoclub",Conoces a Tomas
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52983.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El camino" tvg-logo="https://image.tmdb.org/t/p/w500/bykSMP21J3RzX3YmYo6hlVH4UE6.jpg" group-title="8 Videoclub",El camino
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52984.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vitoria, 3 de marzo" tvg-logo="https://image.tmdb.org/t/p/w500/7kRdlkfE6nfRYAC4MUOZaBtTUou.jpg" group-title="8 Videoclub",Vitoria, 3 de marzo
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52985.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="30 Miles from Nowhere" tvg-logo="https://image.tmdb.org/t/p/w500/lhiUh9HudEdlXoOix1vwawfFfZG.jpg" group-title="8 Videoclub",30 Miles from Nowhere
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52986.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Tomorrow Man" tvg-logo="https://image.tmdb.org/t/p/w500/7YVxf3nUxrJ2xX4SU7Efp7LqPZ5.jpg" group-title="8 Videoclub",The Tomorrow Man
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52987.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La biblioteca de los libros rechazados" tvg-logo="https://image.tmdb.org/t/p/w500/1esgNMYq4BKBpY6b6MEHsvHhycv.jpg" group-title="8 Videoclub",La biblioteca de los libros rechazados
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52988.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El camino una pelicula de Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w500/bykSMP21J3RzX3YmYo6hlVH4UE6.jpg" group-title="8 Videoclub",El camino una pelicula de Breaking Bad
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52989.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Fractura" tvg-logo="https://image.tmdb.org/t/p/w500/oTfoMqGrwIdAtfbiIU3TSn2gMMJ.jpg" group-title="8 Videoclub",Fractura
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52990.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Amor a segunda vista" tvg-logo="https://image.tmdb.org/t/p/w500/edjM8ubrnkXVjCttCBj31y8HwKj.jpg" group-title="8 Videoclub",Amor a segunda vista
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52991.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Pooka" tvg-logo="https://image.tmdb.org/t/p/w500/q6Rmmz5MYWHBqqdxhW6nsj0vgts.jpg" group-title="8 Videoclub",Pooka
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52992.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Paradise Beach" tvg-logo="https://image.tmdb.org/t/p/w500/zf41p0OlPVKFzPLe3RJs8m7gR5l.jpg" group-title="8 Videoclub",Paradise Beach
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52993.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de las comadrejas" tvg-logo="https://image.tmdb.org/t/p/w500/wcAHJpXWOOLukNW7nSe5snBt0xK.jpg" group-title="8 Videoclub",El cuento de las comadrejas
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52994.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="10 días sin mamá" tvg-logo="https://image.tmdb.org/t/p/w500/zFFOlGxl5qDCPN3YdeVuZokMXqL.jpg" group-title="8 Videoclub",10 días sin mamá
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52995.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Terra Willy: Planeta desconocido" tvg-logo="https://image.tmdb.org/t/p/w500/jDZZl36lkxRqrLfpQRsEr2MP5Bq.jpg" group-title="8 Videoclub",Terra Willy: Planeta desconocido
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52996.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Padre no hay mas que uno" tvg-logo="https://image.tmdb.org/t/p/w500/eDLO2nr5xhjOfxDAj3gQao495kw.jpg" group-title="8 Videoclub",Padre no hay mas que uno
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52997.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Dulce familia" tvg-logo="https://image.tmdb.org/t/p/w500/jMONhPuZzQgLhQkhuGhtGiS30VK.jpg" group-title="8 Videoclub",Dulce familia
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52998.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La influencia" tvg-logo="https://image.tmdb.org/t/p/w500/q2uBGdby8j9blwjhUs0xMAsEA2r.jpg" group-title="8 Videoclub",La influencia
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/52999.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Bellezonismo" tvg-logo="https://image.tmdb.org/t/p/w500/xfL63rAygvxdziT79Z4xn8GkuYC.jpg" group-title="8 Videoclub",Bellezonismo
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53000.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El caballero de la Navidad" tvg-logo="https://image.tmdb.org/t/p/w500/5rYdn9YLDfQesvjjPHp0Bj148rR.jpg" group-title="8 Videoclub",El caballero de la Navidad
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53001.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Mensajera" tvg-logo="https://image.tmdb.org/t/p/w500/qobimZ1TkVJYiJDAOzVRMdBX3a8.jpg" group-title="8 Videoclub",La Mensajera
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53002.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Suburbanos" tvg-logo="https://image.tmdb.org/t/p/w500/GRxYizGiMHZTYGxmf8lja3d8Jj.jpg" group-title="8 Videoclub",Suburbanos
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53003.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Amor en obras" tvg-logo="https://image.tmdb.org/t/p/w500/76Lmmi8C4tntC1chgpPHRlYHNoU.jpg" group-title="8 Videoclub",Amor en obras
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53004.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A mi altura" tvg-logo="https://image.tmdb.org/t/p/w500/n7BxzEylFV6IHzboji4EuBfm8ja.jpg" group-title="8 Videoclub",A mi altura
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53005.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Muerte y El Regreso de Superman" tvg-logo="https://image.tmdb.org/t/p/w500/wSyRR0OyYg9i1dHrdelmM64Y3Yw.jpg" group-title="8 Videoclub",La Muerte y El Regreso de Superman
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53006.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="3 Bears Christmas" tvg-logo="https://image.tmdb.org/t/p/w500/t7RWYLh5vuHY6zIf794gyjrRQG3.jpg" group-title="8 Videoclub",3 Bears Christmas
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53007.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Traición" tvg-logo="https://image.tmdb.org/t/p/w500/fkjZy0YxNIGJ1VhVevbLzr2co6r.jpg" group-title="8 Videoclub",A Traición
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53008.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Embarazada por obra y gracia" tvg-logo="https://image.tmdb.org/t/p/w500/9sD25SCeS7jI7TtInJnb9Thy2Ls.jpg" group-title="8 Videoclub",Embarazada por obra y gracia
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53009.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Backdraft 2" tvg-logo="https://image.tmdb.org/t/p/w500/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg" group-title="8 Videoclub",Backdraft 2
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53010.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Grimsey" tvg-logo="https://image.tmdb.org/t/p/w500/nwFQutpp1SpuLqYzmGlVuICbGyy.jpg" group-title="8 Videoclub",Grimsey
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53011.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Herencia de la Víbora" tvg-logo="https://image.tmdb.org/t/p/w500/7uARxGtWsYSZBHNhsJtsFIYLNzv.jpg" group-title="8 Videoclub",La Herencia de la Víbora
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53012.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La mejor defensa es un ataque" tvg-logo="https://image.tmdb.org/t/p/w500/eleLVZ3Szs6PTsNUwVp3zunrAjb.jpg" group-title="8 Videoclub",La mejor defensa es un ataque
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53013.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Litus" tvg-logo="https://image.tmdb.org/t/p/w500/1KNFTnOhIqA8He6KjLxqOqUYUVW.jpg" group-title="8 Videoclub",Litus
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53014.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Monos" tvg-logo="https://image.tmdb.org/t/p/w500/797KzFdpG0M5Y3um7ghl3WlvSrR.jpg" group-title="8 Videoclub",Monos
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53015.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Objetivo: Washington D.C." tvg-logo="https://image.tmdb.org/t/p/w500/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg" group-title="8 Videoclub",Objetivo: Washington D.C.
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53016.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Saint Judy" tvg-logo="https://image.tmdb.org/t/p/w500/pwIejqS8wU7cYXqnAJzMpxTWqsa.jpg" group-title="8 Videoclub",Saint Judy
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53017.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Snatchers" tvg-logo="https://image.tmdb.org/t/p/w500/xRan2aHPSR01dgu8tT7FU0yjv7.jpg" group-title="8 Videoclub",Snatchers
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53018.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Bad Seed" tvg-logo="https://image.tmdb.org/t/p/w500/1m10QitDjpbZgFP1syXgVOv2pH7.jpg" group-title="8 Videoclub",The Bad Seed
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53019.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Birdcatcher" tvg-logo="https://image.tmdb.org/t/p/w500/l9dmHphfmhmIZ4h8zRvhnSvuq0A.jpg" group-title="8 Videoclub",The Birdcatcher
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53020.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Informer" tvg-logo="https://image.tmdb.org/t/p/w500/zIgwclVvD8HOgeY1yzQdZUoRbcy.jpg" group-title="8 Videoclub",The Informer
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53021.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Poison Rose" tvg-logo="https://image.tmdb.org/t/p/w500/gSzyUmg719TgAxarFZYWjLLMqvS.jpg" group-title="8 Videoclub",The Poison Rose
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53022.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Todas las Pecas del Mundo" tvg-logo="https://image.tmdb.org/t/p/w500/vasXCxcYhDnIcbOvyJG2KfHluvX.jpg" group-title="8 Videoclub",Todas las Pecas del Mundo
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53023.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Yo, mi mujer y mi mujer muerta" tvg-logo="https://image.tmdb.org/t/p/w500/lic2HbK48CzaYFPAFRDho5qZ3hi.jpg" group-title="8 Videoclub",Yo, mi mujer y mi mujer muerta
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53024.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Back of the Net" tvg-logo="https://image.tmdb.org/t/p/w500/wB0FS0P8BmwGgSqESmnlge42XC4.jpg" group-title="8 Videoclub",Back of the Net
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53025.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Batman vs. las Tortugas Ninja" tvg-logo="https://image.tmdb.org/t/p/w500/wgBBB3Auky610UPhWdb0hBnwQzM.jpg" group-title="8 Videoclub",Batman vs. las Tortugas Ninja
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53026.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Black and Blue" tvg-logo="https://image.tmdb.org/t/p/w500/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg" group-title="8 Videoclub",Black and Blue
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53027.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Brexit" tvg-logo="https://image.tmdb.org/t/p/w500/jeXYUmVmhET3vXBwmbzIb0CqbOu.jpg" group-title="8 Videoclub",Brexit
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53028.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Capitana Marvel" tvg-logo="https://image.tmdb.org/t/p/w500/d3p5JuwN7dG0TvrN5h4ZY4tMOEX.jpg" group-title="8 Videoclub",Capitana Marvel
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53029.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Náufrago" tvg-logo="https://image.tmdb.org/t/p/w500/p7ybzeydNoMhmXSgYyZVyCS0QDv.jpg" group-title="8 Videoclub",Náufrago
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53030.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cinderela Pop" tvg-logo="https://image.tmdb.org/t/p/w500/uL0TrrV5MHQFkwRxlho0dDKTwvm.jpg" group-title="8 Videoclub",Cinderela Pop
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53031.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cold Blood Legacy" tvg-logo="https://image.tmdb.org/t/p/w500/a17PQiWS1kzILONsmhdyPDhaOZL.jpg" group-title="8 Videoclub",Cold Blood Legacy
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53032.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Como caído del cielo" tvg-logo="https://image.tmdb.org/t/p/w500/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg" group-title="8 Videoclub",Como caído del cielo
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53033.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Atrapada en el Manicomio La Historia de Nellie Bly" tvg-logo="https://image.tmdb.org/t/p/w500/fXfHdfzlzlfxrafASCpsD3toDqM.jpg" group-title="8 Videoclub",Atrapada en el Manicomio La Historia de Nellie Bly
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53034.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A dos metros de ti" tvg-logo="https://image.tmdb.org/t/p/w500/3ZNKu4TfGgACD1D3kibI5Pgmqe4.jpg" group-title="8 Videoclub",A dos metros de ti
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53035.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Cómo entrenar a tu dragón" tvg-logo="https://image.tmdb.org/t/p/w500/vUF9bN3pT99IgdRMSInG0YSqPCN.jpg" group-title="8 Videoclub",Cómo entrenar a tu dragón
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53036.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Huérfanos de Brooklyn" tvg-logo="https://image.tmdb.org/t/p/w500/jjMJy5OxJHpFIaboCklDIYdcfpD.jpg" group-title="8 Videoclub",Huérfanos de Brooklyn
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53037.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Noche de bodas" tvg-logo="https://image.tmdb.org/t/p/w500/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg" group-title="8 Videoclub",Noche de bodas
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53038.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Campamento alienígena" tvg-logo="https://image.tmdb.org/t/p/w500/yhzTeZU5OULn3ePGF58Rc5oIocZ.jpg" group-title="8 Videoclub",Campamento alienígena
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53039.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Alguien especial" tvg-logo="https://image.tmdb.org/t/p/w500/8QW7qjnJPPIDGTCqYThooeiTSYE.jpg" group-title="8 Videoclub",Alguien especial
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53040.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Terminator: destino oscuro" tvg-logo="https://image.tmdb.org/t/p/w500/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg" group-title="8 Videoclub",Terminator: destino oscuro
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53041.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Bosque maldito" tvg-logo="https://image.tmdb.org/t/p/w500/jXHC3pcDQ3pGjAwPAIqF1nTVfPl.jpg" group-title="8 Videoclub",Bosque maldito
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53042.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="¿Dónde estás, Bernadette?" tvg-logo="https://image.tmdb.org/t/p/w500/BziuuZULnGmTRLthEty1QdKSEo.jpg" group-title="8 Videoclub",¿Dónde estás, Bernadette?
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53043.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Amigas con solera" tvg-logo="https://image.tmdb.org/t/p/w500/kIcPwatJvCX4gLeJcwEPEHDGclJ.jpg" group-title="8 Videoclub",Amigas con solera
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53044.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Annabelle : La maison du Mal" tvg-logo="https://image.tmdb.org/t/p/w500/3X7rcQok7qpTAD5trOakvmlHrJm.jpg" group-title="8 Videoclub",Annabelle : La maison du Mal
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53045.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Al agua gambas" tvg-logo="https://image.tmdb.org/t/p/w500/hzIRvWLe6PDQi8EetNMDNNcEidu.jpg" group-title="8 Videoclub",Al agua gambas
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53046.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Voces ocultas" tvg-logo="https://image.tmdb.org/t/p/w500/vFnuaLiYIVirrJGaKfuuq0DCCvw.jpg" group-title="8 Videoclub",Voces ocultas
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53047.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Aladin" tvg-logo="https://image.tmdb.org/t/p/w500/90xSKwsBBciN018LyQwVhuIDJN7.jpg" group-title="8 Videoclub",Aladin
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53048.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Godzilla: Rey de los Monstruos" tvg-logo="https://image.tmdb.org/t/p/w500/yQ59NPwzHE2XlYwU2VwHF9Wb0IJ.jpg" group-title="8 Videoclub",Godzilla: Rey de los Monstruos
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53049.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Godzilla Rey de los Monstruos" tvg-logo="https://image.tmdb.org/t/p/w500/yQ59NPwzHE2XlYwU2VwHF9Wb0IJ.jpg" group-title="8 Videoclub",Godzilla Rey de los Monstruos
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53050.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El parque magico" tvg-logo="https://image.tmdb.org/t/p/w500/eW6JtZ5cyzfVe5s9DFDKaJay94b.jpg" group-title="8 Videoclub",El parque magico
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53051.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kursk" tvg-logo="https://image.tmdb.org/t/p/w500/1BTajOVHKlKZzNge6prHv8hRqI7.jpg" group-title="8 Videoclub",Kursk
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53052.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mascotas 2" tvg-logo="https://image.tmdb.org/t/p/w500/dqGsG2uNV9JGgrfODbTafPUukci.jpg" group-title="8 Videoclub",Mascotas 2
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53053.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La (des)educación de Cameron Post" tvg-logo="https://image.tmdb.org/t/p/w500/1r1EVJ31Q4tsRIrGiWxoD82XZ1v.jpg" group-title="8 Videoclub",La (des)educación de Cameron Post
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53054.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Un corazon extraordinario" tvg-logo="https://image.tmdb.org/t/p/w500/xaW3c6at4dgrL7zHkYsUpnzYRTe.jpg" group-title="8 Videoclub",Un corazon extraordinario
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53055.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La importancia de llamarse Oscar Wilde" tvg-logo="https://image.tmdb.org/t/p/w500/b4M9wSoWml4vt5YsXiyKly1kyR2.jpg" group-title="8 Videoclub",La importancia de llamarse Oscar Wilde
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53056.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Spider Man Lejos de Casa" tvg-logo="https://image.tmdb.org/t/p/w500/iKVR1ba3W1wCm9bVCcpnNvxQUWX.jpg" group-title="8 Videoclub",Spider Man Lejos de Casa
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53057.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Los hermanos Sisters" tvg-logo="https://image.tmdb.org/t/p/w500/v8wlFbdZZZ1oSyVE8Vbl7MdNNSJ.jpg" group-title="8 Videoclub",Los hermanos Sisters
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53058.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Plan de escape 2 Hades" tvg-logo="https://image.tmdb.org/t/p/w500/vASI2XYuHVFlhzSKMrWsgL75wdK.jpg" group-title="8 Videoclub",Plan de escape 2 Hades
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53059.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Pokemon Detective Pikachu" tvg-logo="https://image.tmdb.org/t/p/w500/f6rnazQ86WAwr4ooWfSO8fYD4G8.jpg" group-title="8 Videoclub",Pokemon Detective Pikachu
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53060.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Keepers El misterio del faro" tvg-logo="https://image.tmdb.org/t/p/w500/lXSiEbWSk7RqZQtwobZNTZKp8IH.jpg" group-title="8 Videoclub",Keepers El misterio del faro
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53061.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El Precio del Perdon" tvg-logo="https://image.tmdb.org/t/p/w500/75vrvbEAXetPxBXhLeq5eqJwoxc.jpg" group-title="8 Videoclub",El Precio del Perdon
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53062.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="UglyDolls Extraordinariamente Feos" tvg-logo="https://image.tmdb.org/t/p/w500/hpSUclx8IJ6yrDxG54JSP03JmPq.jpg" group-title="8 Videoclub",UglyDolls Extraordinariamente Feos
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53063.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Mas Veloz que la Muerte" tvg-logo="https://image.tmdb.org/t/p/w500/lzR2GneOf4FiIqhB74pmqMNfuMr.jpg" group-title="8 Videoclub",Mas Veloz que la Muerte
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53064.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Men in Black International" tvg-logo="https://image.tmdb.org/t/p/w500/ewPz4CtrgyQZaCRpubtG5IedIkp.jpg" group-title="8 Videoclub",Men in Black International
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53065.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Redcon-1" tvg-logo="https://image.tmdb.org/t/p/w500/vVPrWngVJ2cfYAncBedQty69Dlf.jpg" group-title="8 Videoclub",Redcon-1
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53066.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Infiltrado en Miami" tvg-logo="https://image.tmdb.org/t/p/w500/mInwNVhhKdgXeBHRIzlZ3QMggth.jpg" group-title="8 Videoclub",Infiltrado en Miami
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53067.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Las invisibles" tvg-logo="https://image.tmdb.org/t/p/w500/lHoUkgguie5YZe4h8juq6Zzk5Yz.jpg" group-title="8 Videoclub",Las invisibles
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53068.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El sotano de Ma" tvg-logo="https://image.tmdb.org/t/p/w500/gUPZu9stlOUHqT9FCRYwiKkFtMo.jpg" group-title="8 Videoclub",El sotano de Ma
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53069.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Super empollonas" tvg-logo="https://image.tmdb.org/t/p/w500/gOTCGleMERuAUhNAq2MIYybrgnC.jpg" group-title="8 Videoclub",Super empollonas
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53070.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Agente 00 Gato" tvg-logo="https://image.tmdb.org/t/p/w500/qhWA3AGliIWbKhHfMJOyJrzYess.jpg" group-title="8 Videoclub",Agente 00 Gato
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53071.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Estafadores" tvg-logo="https://image.tmdb.org/t/p/w500/67wUJtvhQKkGNryrpE00AfD7EkJ.jpg" group-title="8 Videoclub",Estafadores
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53072.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Share" tvg-logo="https://image.tmdb.org/t/p/w500/g3sdrWXD7GknI0e5OTIyH01Kxs9.jpg" group-title="8 Videoclub",Share
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53073.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Memorias de un hombre en pijama" tvg-logo="https://image.tmdb.org/t/p/w500/zhsSg8JIzv6oyfXJlKOjHJmOxGq.jpg" group-title="8 Videoclub",Memorias de un hombre en pijama
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53074.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El mejor verano de mi vida" tvg-logo="https://image.tmdb.org/t/p/w500/q3RwcNpLTdum99fTWcMazEwSd4v.jpg" group-title="8 Videoclub",El mejor verano de mi vida
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53075.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Okko el hostal y sus fantasmas" tvg-logo="https://image.tmdb.org/t/p/w500/dHm7Aynb2r3kbGZzJBp5ZLJwdl3.jpg" group-title="8 Videoclub",Okko el hostal y sus fantasmas
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53076.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Troop Zero" tvg-logo="https://image.tmdb.org/t/p/w500/uJkBxE3uD78u5KTQHayXTbbeyge.jpg" group-title="8 Videoclub",Troop Zero
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53077.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Murder of Nicole Brown Simpson" tvg-logo="https://image.tmdb.org/t/p/w500/pfTrRimCd5mDnb8qpTZovD5ZIsl.jpg" group-title="8 Videoclub",The Murder of Nicole Brown Simpson
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53078.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Un hombre fiel" tvg-logo="https://image.tmdb.org/t/p/w500/yTlwNNnrLd00gMOBwVRFwHFFZrl.jpg" group-title="8 Videoclub",Un hombre fiel
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53079.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="No hay salida" tvg-logo="https://image.tmdb.org/t/p/w500/dgcTjWzgmX7moSu681wk6H0S5oq.jpg" group-title="8 Videoclub",No hay salida
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53080.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="How High 2" tvg-logo="https://image.tmdb.org/t/p/w500/mvqY71MAVMgUHILMVCdp64ymxLw.jpg" group-title="8 Videoclub",How High 2
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53081.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Fin de semana asesino" tvg-logo="https://image.tmdb.org/t/p/w500/qp5RlGTqAInLl3TdLgwK3ceAM4H.jpg" group-title="8 Videoclub",Fin de semana asesino
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53082.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Todo por Grace" tvg-logo="https://image.tmdb.org/t/p/w500/9FfDRd2JINlcEHTGlo365rHWcIH.jpg" group-title="8 Videoclub",Todo por Grace
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53083.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Silencio" tvg-logo="https://image.tmdb.org/t/p/w500/x1hqZL8GxAByIVnnnVfxVIMTare.jpg" group-title="8 Videoclub",Silencio
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53084.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Level 16" tvg-logo="https://image.tmdb.org/t/p/w500/kILAL9kJdW3f6wk9Ai0tavgi6mp.jpg" group-title="8 Videoclub",Level 16
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53085.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Shanghai Fortress" tvg-logo="https://image.tmdb.org/t/p/w500/kVBt7S1Ss4d3rShSQE4hTa854Sa.jpg" group-title="8 Videoclub",Shanghai Fortress
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53086.avi
+#EXTINF:-1 tvg-ID="" tvg-name="The Car Road to Revenge" tvg-logo="https://image.tmdb.org/t/p/w500/czynIdEiHjpGhUWMnoax7Q3lMAE.jpg" group-title="8 Videoclub",The Car Road to Revenge
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53087.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Lo dejo cuando quiera" tvg-logo="https://image.tmdb.org/t/p/w500/k5LP414yqZSaRAZf9uVh1ufO2mN.jpg" group-title="8 Videoclub",Lo dejo cuando quiera
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53088.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="la pequena suiza" tvg-logo="https://image.tmdb.org/t/p/w500/syst828NvokCrTWNEoi28ANYpJE.jpg" group-title="8 Videoclub",la pequena suiza
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53089.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sextillizos" tvg-logo="https://image.tmdb.org/t/p/w500/myUjOa4P3G5QLb5wrHtKbi0piD0.jpg" group-title="8 Videoclub",Sextillizos
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53090.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Entre dos Helechos La Pelicula" tvg-logo="https://image.tmdb.org/t/p/w500/z1LfFBxJznVKCloOol3N4iJMeKx.jpg" group-title="8 Videoclub",Entre dos Helechos La Pelicula
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53091.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Placa de Acero" tvg-logo="https://image.tmdb.org/t/p/w500/gD9iy8LNlmLNlOEWCTkPfHElTh9.jpg" group-title="8 Videoclub",Placa de Acero
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53092.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kardec" tvg-logo="https://image.tmdb.org/t/p/w500/gDfki2cMZnwHOUKNfVNWiRNMGht.jpg" group-title="8 Videoclub",Kardec
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53093.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Scooby Doo Retorno a la Isla Zombie" tvg-logo="https://image.tmdb.org/t/p/w500/vd0oIoWhEm8o7EpS0kV7RaV0Flf.jpg" group-title="8 Videoclub",Scooby Doo Retorno a la Isla Zombie
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53094.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vaya clase" tvg-logo="https://image.tmdb.org/t/p/w500/3bZYa2Jw4B8xcOTLsuIed0wsGx6.jpg" group-title="8 Videoclub",Vaya clase
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53095.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="La Maravilla" tvg-logo="https://image.tmdb.org/t/p/w500/pIRia9ZqoGbzNRlJujsxnvg4mXW.jpg" group-title="8 Videoclub",La Maravilla
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53096.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Feo pero Sabroso" tvg-logo="https://image.tmdb.org/t/p/w500/zywEJpSeYGY9hb7IOmdsdvjP0oE.jpg" group-title="8 Videoclub",Feo pero Sabroso
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53097.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="We the Animals" tvg-logo="https://image.tmdb.org/t/p/w500/afHeP82AwzQvLYvmlQOcoINzio7.jpg" group-title="8 Videoclub",We the Animals
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53098.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="X Men Fenix oscura" tvg-logo="https://image.tmdb.org/t/p/w500/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="8 Videoclub",X Men Fenix oscura
+http://www.sansat.net:25461/movie/025923217680/VkA7UHHjR73xbdu/53099.mkv
